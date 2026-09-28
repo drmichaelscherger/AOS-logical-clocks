@@ -1,12 +1,11 @@
 # MPI Logical Clocks
 
-Starter project for an Advanced Operating Systems assignment on logical time in distributed systems. Students will complete an MPI-based simulation in C++17 and implement both Lamport scalar clocks and vector clocks.
+Starter project for Advanced Operating Systems assignment on logical time in distributed systems. Students will complete an MPI-based simulation in C++17 and implement both Lamport scalar clocks and vector clocks.
 
 ## Learning objectives
 
 By completing this assignment, you should be able to:
 
-- distinguish physical time from logical time;
 - apply clock-update rules to internal, send, and receive events;
 - attach logical timestamps to MPI messages;
 - explain causal ordering, concurrency, and the limits of Lamport clocks; and
