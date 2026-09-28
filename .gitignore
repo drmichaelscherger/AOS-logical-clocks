@@ -1,0 +1,16 @@
+# Build output
+build/
+bin/
+*.o
+*.out
+
+# Runtime logs
+logs/
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
